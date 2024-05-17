@@ -1,4 +1,4 @@
-# TEAM Project Design
+# TEAM Project Prototype Design
 
 ## Project Overview
 
