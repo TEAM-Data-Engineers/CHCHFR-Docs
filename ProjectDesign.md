@@ -1,4 +1,4 @@
-# TEAM Project Prototype Design
+# CHCH-Fuel-Recommendator Project Prototype Design
 
 ## Project Overview
 
