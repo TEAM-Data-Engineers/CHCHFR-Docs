@@ -48,11 +48,11 @@ The project used micro-service architecture, consists of 4 repositories within t
 ---
 
 ![Web API Response](./images/WebApiResponse.jpg)
-> **Figure 5**: The Web API response is shown in the browser.
+> **Figure 4**: The Web API response is shown in the browser.
 ---
 
 ![Video](./images/v1.gif) ![Video](./images/v2.gif)
-> **Figure 4**: The screenshots are taken from the mobile application, which is the frontend of the project.
+> **Figure 5**: The screenshots are taken from the mobile application, which is the frontend of the project.
 ---
 
 ## Other Information
