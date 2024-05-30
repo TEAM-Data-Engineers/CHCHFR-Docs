@@ -1,4 +1,4 @@
-# Data472 Group Project
+# Data472 - Data Engineering 24S1 Group Project
 
 ## TEAM & Members
 
@@ -9,13 +9,13 @@
 
 ## Project Overview
 
-The project used micro-service architecture, consists of 4 repositories within the GitHub organization "TEAM-Data-Engineers." Each repository serves a specific purpose in the overall project, which is related to fuel recommendation in Christchurch. The entire application includes Data collection pipeline, Web API provider, and Mobile end interface. Here’s a brief overview of each repository based on their information:
+The project used micro-service architecture and consisted of 4 repositories within the GitHub organization "TEAM-Data-Engineers." Each repository serves a specific purpose in the overall project, which is related to fuel recommendations in Christchurch. The entire application includes a Data collection ETL pipeline, Web API provider, and Mobile end interface. Here’s a brief overview of each repository based on their information:
 
 ## Project Architecture
 
 1. **Data Collection Service**:
-   - **Language**: Python integrated with Apache Airflow
-   - **Purpose**: Data collection pipeline for the CHCH Fuel Recommendation project.
+   - **Language**: Python-based DAG task integrated within Apache Airflow
+   - **Purpose**: Data ETL pipeline for the CHCH Fuel Recommendation project.
    - **Address**: [CHCHFR-Data-Collection](https://github.com/TEAM-Data-Engineers/CHCHFR-Data-Collection)
 
 2. **Web API Provider Service**:
@@ -36,15 +36,15 @@ The project used micro-service architecture, consists of 4 repositories within t
 ## Key features of screenshots
 
 ![Airflow Dags](./images/af01.jpg)
-> **Figure 1**: The Data collection task shows on Airflow Dashboard
+> **Figure 1**: The Data collection DAG task shown on the Airflow Dashboard
 ---
 
 ![Gas Station Data](./images/GasStationData.jpg)
-> **Figure 2**: The Gas Station are stored in the PostgreSQL database.
+> **Figure 2**: The Gas Stations are stored in the PostgreSQL database.
 ---
 
 ![Fuel Price Data](./images/FuelPriceData.jpg)
-> **Figure 3**: The Fuel Price are stored in the PostgreSQL database.
+> **Figure 3**: The Fuel Prices are stored in the PostgreSQL database.
 ---
 
 ![Web API Response](./images/WebApiResponse.jpg)
@@ -52,7 +52,7 @@ The project used micro-service architecture, consists of 4 repositories within t
 ---
 
 ![Video](./images/v1.gif) ![Video](./images/v2.gif)
-> **Figure 5**: The screenshots are taken from the mobile application, which is the frontend of the project.
+> **Figure 5**: The screenshots are taken from the mobile application, which is the front end of the project.
 ---
 
 ![Project Management](./images/ProjectManagement.jpg)
@@ -63,4 +63,4 @@ The project used micro-service architecture, consists of 4 repositories within t
 
 > More information about the project can be found in the respective repositories. Please refer to the README.md file in each repository for more details.
 
-Project matains by [Hua Wang](mailto:hwa205@uclive.ac.nz)
+The project maintains by [Hua Wang](mailto:aemooooon@gmail.com)
