@@ -55,6 +55,10 @@ The project used micro-service architecture, consists of 4 repositories within t
 > **Figure 5**: The screenshots are taken from the mobile application, which is the frontend of the project.
 ---
 
+![Project Management](./images/ProjectManagement.jpg)
+> **Figure 6**: The screenshots are taken from the project management board of GitHub.
+---
+
 ## Other Information
 
 > More information about the project can be found in the respective repositories. Please refer to the README.md file in each repository for more details.
