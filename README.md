@@ -33,20 +33,29 @@ The project used micro-service architecture, consists of 4 repositories within t
    - **Purpose**: Documentation for the CHCH Fuel Recommendation project.
    - **Address**: [CHCHFR-Docs](https://github.com/TEAM-Data-Engineers/CHCHFR-Docs)
 
-## Some of the key features of screenshots
-
-> **Note**: The Data collection task shows on Airflow Dashboard
+## Key features of screenshots
 
 ![Airflow Dags](./images/af01.jpg)
+> **Note**: The Data collection task shows on Airflow Dashboard
 
-> **Note**: The Gas Station are stored in the PostgreSQL database.
+---
 
 ![Gas Station Data](./images/GasStationData.jpg)
+> **Note**: The Gas Station are stored in the PostgreSQL database.
 
-> **Note**: The Fuel Price are stored in the PostgreSQL database.
+---
 
 ![Fuel Price Data](./images/FuelPriceData.jpg)
+> **Note**: The Fuel Price are stored in the PostgreSQL database.
 
-> **Note**: The screenshots are taken from the mobile application, which is the frontend of the project.
+---
 
 ![Video](./images/v1.gif) ![Video](./images/v2.gif)
+> **Note**: The screenshots are taken from the mobile application, which is the frontend of the project.
+
+---
+
+![Web API Response](./images/WebApiResponse.jpg)
+> **Note**: The Web API response is shown in the browser.
+
+---
