@@ -36,26 +36,21 @@ The project used micro-service architecture, consists of 4 repositories within t
 ## Key features of screenshots
 
 ![Airflow Dags](./images/af01.jpg)
-> **Note**: The Data collection task shows on Airflow Dashboard
-
+> **Figure 1**: The Data collection task shows on Airflow Dashboard
 ---
 
 ![Gas Station Data](./images/GasStationData.jpg)
-> **Note**: The Gas Station are stored in the PostgreSQL database.
-
+> **Figure 2**: The Gas Station are stored in the PostgreSQL database.
 ---
 
 ![Fuel Price Data](./images/FuelPriceData.jpg)
-> **Note**: The Fuel Price are stored in the PostgreSQL database.
-
+> **Figure 3**: The Fuel Price are stored in the PostgreSQL database.
 ---
 
 ![Video](./images/v1.gif) ![Video](./images/v2.gif)
-> **Note**: The screenshots are taken from the mobile application, which is the frontend of the project.
-
+> **Figure 4**: The screenshots are taken from the mobile application, which is the frontend of the project.
 ---
 
 ![Web API Response](./images/WebApiResponse.jpg)
-> **Note**: The Web API response is shown in the browser.
-
+> **Figure 5**: The Web API response is shown in the browser.
 ---
