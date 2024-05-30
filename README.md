@@ -11,6 +11,8 @@
 
 The project used micro-service architecture, consists of 4 repositories within the GitHub organization "TEAM-Data-Engineers." Each repository serves a specific purpose in the overall project, which is related to fuel recommendation in Christchurch. The entire application includes Data collection pipeline, Web API provider, and Mobile end interface. Here’s a brief overview of each repository based on their information:
 
+## Project Architecture
+
 1. **Data Collection Service**:
    - **Language**: Python integrated with Apache Airflow
    - **Purpose**: Data collection pipeline for the CHCH Fuel Recommendation project.
@@ -31,10 +33,20 @@ The project used micro-service architecture, consists of 4 repositories within t
    - **Purpose**: Documentation for the CHCH Fuel Recommendation project.
    - **Address**: [CHCHFR-Docs](https://github.com/TEAM-Data-Engineers/CHCHFR-Docs)
 
+## Some of the key features of screenshots
+
+> **Note**: The Data collection task shows on Airflow Dashboard
+
 ![Airflow Dags](./images/af01.jpg)
+
+> **Note**: The Gas Station are stored in the PostgreSQL database.
 
 ![Gas Station Data](./images/GasStationData.jpg)
 
+> **Note**: The Fuel Price are stored in the PostgreSQL database.
+
 ![Fuel Price Data](./images/FuelPriceData.jpg)
 
-![Video](./images/v1.gif)
+> **Note**: The screenshots are taken from the mobile application, which is the frontend of the project.
+
+![Video](./images/v1.gif) ![Video](./images/v2.gif)
