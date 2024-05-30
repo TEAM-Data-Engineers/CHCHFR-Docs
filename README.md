@@ -54,3 +54,9 @@ The project used micro-service architecture, consists of 4 repositories within t
 ![Video](./images/v1.gif) ![Video](./images/v2.gif)
 > **Figure 4**: The screenshots are taken from the mobile application, which is the frontend of the project.
 ---
+
+## Other Information
+
+> More information about the project can be found in the respective repositories. Please refer to the README.md file in each repository for more details.
+
+Project matains by [Hua Wang](mailto:hwa205@uclive.ac.nz)
