@@ -47,10 +47,10 @@ The project used micro-service architecture, consists of 4 repositories within t
 > **Figure 3**: The Fuel Price are stored in the PostgreSQL database.
 ---
 
-![Video](./images/v1.gif) ![Video](./images/v2.gif)
-> **Figure 4**: The screenshots are taken from the mobile application, which is the frontend of the project.
----
-
 ![Web API Response](./images/WebApiResponse.jpg)
 > **Figure 5**: The Web API response is shown in the browser.
+---
+
+![Video](./images/v1.gif) ![Video](./images/v2.gif)
+> **Figure 4**: The screenshots are taken from the mobile application, which is the frontend of the project.
 ---
